@@ -5,7 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trombinoscope PHPower</title>
+    <link rel="stylesheet" href="style.css">
 </head>
+
+<?php include "_header.php" ?>
+
 <body>
     <h1>
         Team PHPower
@@ -26,4 +30,7 @@
     </section>
 
 </body>
+
+<?php include "_footer.php" ?>
+
 </html>
