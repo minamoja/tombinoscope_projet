@@ -1,0 +1,30 @@
+.contactGrid {
+    display: grid;
+    grid-template-areas:
+        "N I"
+        "E I"
+        "M M"
+        "S O"
+}
+
+#name {
+    grid-area: N;
+}
+
+#email {
+    grid-area: E;
+}
+
+#message {
+    grid-area: M;
+}
+
+#submit {
+    grid-area: S;
+}
+
+.contactGrid>div {
+    grid-area: I;
+    background-image: url("/images/Email_image.jpeg");
+    background-size: contain;
+}
