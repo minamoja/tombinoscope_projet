@@ -1,0 +1,17 @@
+@import "_indexphp.css";
+@import "_variables.css";
+
+body {
+    font-family: var(--main-text-font);
+    margin: 0;
+    background-color: var(--secondary-background-color);
+    color: var(--main-font-color);
+}
+
+h1 {
+    font-family: var('Varela Round', sans-serif);
+}
+
+h2 {
+    font-family: var('Varela Round', sans-serif);
+}

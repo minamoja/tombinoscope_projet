@@ -5,7 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trombinoscope PHPower</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../CSS/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Raleway&family=Varela+Round&display=swap" rel="stylesheet">
 </head>
 
 <?php include "_header.php" ?>
@@ -15,7 +18,7 @@
         Team PHPower
     </h1>
     <div>
-            <img src="" alt="">
+            <img src="../images/power_ranger_groupe.png" alt="Notre super équipe au complet">
         </div>
     <section>
         <h2> Welcome !</h2>
@@ -24,7 +27,7 @@
         </p></article>
         <h2> About us</h2>
         <article>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, vel similique unde, ullam vero exercitationem eum reprehenderit ea blanditiis quae adipisci. Placeat autem, sequi fugit eligendi explicabo dicta vel reiciendis?
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, vel similique unde, ullam vero exercitationem eum reprehenderit ea blanditiis quae adipisci. Placeat autem, sequi fugit eligendi explicabo dicta vel reiciendis?</p>
         </article>
 
     </section>

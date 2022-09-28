@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+h1 {
+    color: var(--h1-text-color);
+    
+}
+
+img{
+    max-width: 90%;
+    margin: 5%;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
