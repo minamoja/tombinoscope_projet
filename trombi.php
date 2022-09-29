@@ -18,12 +18,19 @@
 
     <section class="trombiSection">
 
-    <div class="trombiDiv">Ranger 1</div>
-    <div class="trombiDiv">Ranger 2</div>
-    <div class="trombiDiv">Ranger 3</div>
-    <div class="trombiDiv">Ranger 4</div>
-    <div class="trombiDiv">Ranger 5</div>
-    <div class="trombiDiv">Ranger 6</div>
+
+    </div><div class="trombiDiv"> <img src="\images\casque-ranger.jpg" alt="Photo"></div>
+    <h3>Ranger 1</h3>
+    <div class="trombiDiv"> <img src="\images\casque-ranger.jpg" alt="Photo"></div>
+    <h3>Ranger 2</h3>
+    <div class="trombiDiv"> <img src="\images\casque-ranger.jpg" alt="Photo"></div>
+    <h3>Ranger 3</h3>
+    <div class="trombiDiv"> <img src="\images\casque-ranger.jpg" alt="Photo"></div>
+    <h3>Ranger 4</h3>
+    <div class="trombiDiv"> <img src="\images\casque-ranger.jpg" alt="Photo"></div>
+    <h3>Ranger 5</h3>
+    <div class="trombiDiv"> <img src="\images\casque-ranger.jpg" alt="Photo"></div>
+    <h3>Ranger 6</h3>
 
 
     </section>
