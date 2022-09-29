@@ -16,14 +16,14 @@
 <body>
     <h1> Our PHPower Rangers</h1>
 
-    <section>
+    <section class="trombiSection">
 
-    <div>Ranger 1</div>
-    <div>Ranger 2</div>
-    <div>Ranger 3</div>
-    <div>Ranger 4</div>
-    <div>Ranger 5</div>
-    <div>Ranger 6</div>
+    <div class="trombiDiv">Ranger 1</div>
+    <div class="trombiDiv">Ranger 2</div>
+    <div class="trombiDiv">Ranger 3</div>
+    <div class="trombiDiv">Ranger 4</div>
+    <div class="trombiDiv">Ranger 5</div>
+    <div class="trombiDiv">Ranger 6</div>
 
 
     </section>

@@ -25,4 +25,6 @@ h1 {
 
 h2 {
     font-family: var('Varela Round', sans-serif);
+    margin-bottom: 1rem;
+    margin-top: 1rem;
 }

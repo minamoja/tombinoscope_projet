@@ -1,4 +1,4 @@
-section{
+.trombiSection{
 
     margin-top: 2rem;
 display: grid;
@@ -7,7 +7,7 @@ display: grid;
   gap: 1rem;
 }
 
-div{
+.trombiDiv{
     background-color: white;
     padding: 4rem 5rem;
     border-radius: 30px;
@@ -18,7 +18,7 @@ div{
 }
 
 @media screen and (min-width: 600px){
-    section{
+    .trombiSection{
         margin-top: 2rem;
         display: grid;
           grid-template-rows: 1fr 1fr 1fr;

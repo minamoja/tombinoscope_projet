@@ -20,7 +20,7 @@
     <div>
             <img src="../images/power_ranger_groupe.png" alt="Notre super équipe au complet">
         </div>
-    <section>
+    <section class="indexSection">
         <h2> Welcome !</h2>
         <article><p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure sapiente necessitatibus neque expedita esse, tempora dolorem aliquid nobis assumenda labore possimus vitae quos dolor numquam illum officiis est, quasi sequi.
