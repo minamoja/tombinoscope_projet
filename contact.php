@@ -6,10 +6,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nous contacter</title>
-    <link href="../CSS/_contact.css" rel="stylesheet">
+    <link href="../CSS/style.css" rel="stylesheet">
 </head>
 
-<body></body>
+<?php include "_header.php" ?>
+
+<body>
 <h1>Nous contacter</h1>
 <p>Si vous voulez nous contacter, vous pouvez remplir le formulaire ci-dessous.</p>
 <section class="contactGrid">
@@ -26,5 +28,7 @@
     </form>
 </section>
 </body>
+
+<?php include "_footer.php" ?>
 
 </html>
