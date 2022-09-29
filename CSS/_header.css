@@ -1,9 +1,38 @@
+header {
+    background-color: #bec0bf;
+    padding: 0;
+}
 .logo {
-    width: 55px;
-    height: 55px;
+    float: left;
+    width: 13.5%;
+    height: 13.5%;
+    margin-top: 40px;
+    margin: 33px;
 }
 
 nav {
-    background-color: #d4dbd9;
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
 
+ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 12px;
+}
+
+ul li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 8%;
+}
+
+ul li:hover {
+    box-shadow: 0 0 50px var(--primary-background-color);
+}
+
+a:active {
+    box-shadow: 0 0 50px var(--secondary-background-color);
 }
