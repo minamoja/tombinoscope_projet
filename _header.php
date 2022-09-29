@@ -16,9 +16,9 @@
 
         <nav>
             <ul>
-                <li><a href="index.php"><img src="../images/iconehome.png" /></a></li>
-                <li><a href="trombi.php"><img src="../images/iconephoto.png" /></a></li>
-                <li><a href="contact.php"><img src="../images/iconecontact.png" /></a></li>
+                <li><a href="index.php"><img src="../images/iconehome.png" class="headernavimg"/></a></li>
+                <li><a href="trombi.php"><img src="../images/iconephoto.png" class="headernavimg"/></a></li>
+                <li><a href="contact.php"><img src="../images/iconecontact.png" class="headernavimg"/></a></li>
             </ul>
         </nav>
 

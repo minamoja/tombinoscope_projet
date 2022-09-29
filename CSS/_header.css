@@ -30,9 +30,14 @@ ul li {
 }
 
 ul li:hover {
-    box-shadow: 0 0 50px var(--primary-background-color);
+    filter: drop-shadow(0 0 10px var(--primary-background-color));
 }
 
-a:active {
-    box-shadow: 0 0 50px var(--secondary-background-color);
+ul li a:active {
+    filter: drop-shadow(0 0 50px var(--secondary-background-color));
 }
+
+.headernavimg {
+    clip-path: ellipse(50% 50%);
+}
+
