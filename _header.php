@@ -12,13 +12,13 @@
 <body>
 
     <header>
-        <img src="../Images/logo.png" class="logo" />
-
+        <img src="../Images/logoblanc.png" class="logo" />
         <nav>
             <ul>
-                <li><a href="index.php"><img src="../images/iconehome.png" class="headernavimg"/></a></li>
-                <li><a href="trombi.php"><img src="../images/iconephoto.png" class="headernavimg"/></a></li>
-                <li><a href="contact.php"><img src="../images/iconecontact.png" class="headernavimg"/></a></li>
+
+                <li><a href="index.php"><img src="../images/iconehome.png" class="headernavimg" /></a></li>
+                <li><a href="trombi.php"><img src="../images/iconephoto.png" class="headernavimg" /></a></li>
+                <li><a href="contact.php"><img src="../images/iconecontact.png" class="headernavimg" /></a></li>
             </ul>
         </nav>
 

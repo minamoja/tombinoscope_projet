@@ -1,0 +1,21 @@
+footer{
+    width: 100%;
+
+}
+
+.divfooter {
+    background-color: var(--primary-background-color);
+    margin-top: 50px;
+    border-bottom: 0px;
+    text-align: center;
+}
+.logofooter {
+    width: 15%;
+    margin-top: 10px;
+}
+
+.footertext {
+    padding: 2% 0;
+    color:whitesmoke;
+    text-shadow: var(--main-font-color) 0.1em 0.1em 0.2em;
+}
