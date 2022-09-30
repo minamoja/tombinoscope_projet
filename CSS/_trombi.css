@@ -8,7 +8,7 @@ display: grid;
 
 .trombiDiv{
     background-color: white;
-    border-radius: 180px;
+    border-radius: 180%;
     border: solid 2px;
     border-color: var(--border-color);
     margin-left: 5%;
@@ -19,7 +19,7 @@ display: grid;
 
 .trombiDiv > img {
     width: 100%;
-    border-radius: 180px;
+    clip-path: ellipse(50% 50%);
 }
 
 h3{

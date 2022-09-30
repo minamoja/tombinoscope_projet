@@ -7,5 +7,6 @@
     --main-text-font:'Raleway', sans-serif;
     --title-text-font:'Varela Round', sans-serif;
     --border-color: #f76c6c;
+    --navbar-transition-speed: .2s;
 
 }
