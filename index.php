@@ -18,7 +18,7 @@
         Team PHPower
     </h1>
     <div>
-            <img src="../images/montageteam.png" alt="Notre super équipe au complet">
+            <img src="/pictures/power_ranger_groupe.png" alt="Notre super équipe au complet">
         </div>
     <section class="indexSection">
         <h2> Welcome !</h2>

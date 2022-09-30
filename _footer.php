@@ -13,7 +13,7 @@
 
     <footer>
         <div class="divfooter">
-            <img src="../Images/logoblancmini.png" class="logofooter" />
+            <img src="/pictures/logoblanc.png" class="logofooter" />
 
             <p class="footertext">A bientôt chez les wilders</p>
         </div>

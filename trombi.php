@@ -19,17 +19,17 @@
     <section class="trombiSection">
 
 
-    <div class="trombiDiv"> <img src="\images\nicolas.png" alt="Photo"></div>
+    <div class="trombiDiv"> <img src="/pictures/nicolas.png" alt="Photo"></div>
     <h3>Ranger 1</h3>
-    <div class="trombiDiv"> <img src="\images\marine.png" alt="Photo"></div>
+    <div class="trombiDiv"> <img src="/pictures/marine.png" alt="Photo"></div>
     <h3>Ranger 2</h3>
-    <div class="trombiDiv"> <img src="\images\megane.png" alt="Photo"></div>
+    <div class="trombiDiv"> <img src="/pictures/megane.png" alt="Photo"></div>
     <h3>Ranger 3</h3>
-    <div class="trombiDiv"> <img src="\images\alain.png" alt="Photo"></div>
+    <div class="trombiDiv"> <img src="/pictures/alain.png" alt="Photo"></div>
     <h3>Ranger 4</h3>
-    <div class="trombiDiv"> <img src="\images\jf.png" alt="Photo"></div>
+    <div class="trombiDiv"> <img src="/pictures/jf.png" alt="Photo"></div>
     <h3>Ranger 5</h3>
-    <div class="trombiDiv"> <img src="\images\florian.png" alt="Photo"></div>
+    <div class="trombiDiv"> <img src="/pictures/florian.png" alt="Photo"></div>
     <h3>Ranger 6</h3>
 
 
