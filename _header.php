@@ -1,45 +1,31 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Header</title>
-    <link href="../CSS/_header.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="../CSS/_header.css">
+    <script src="script.js" defer></script>
+    <title>Navbar</title>
 </head>
 
-<body>
-    <header>
-        <nav class="navbar">
-            <ul class="navbarmenu">
-                <li class="navbaritemlogo">
-                    <a>
-                        <img src="../pictures/logoblanc.png" />  
-                    </a>
-                </li>
-                <li class="navbaritem">
-                    <a href="index.php" class="navbarlink">
-                        <img src="../pictures/iconehome.png" class=" navbaricone" />
-                        
-                    </a>
-                </li>
-                <li class="navbaritem">
-                    <a href="trombi.php" class="navbarlink">
-                        <img src="../pictures/iconephoto.png" class=" navbaricone" />
-                    </a>
-                </li>
-                <li class="navbaritem">
-                    <a href="contact.php" class="navbarlink">
-                        <img src="../pictures/iconecontact.png" class="navbaricone" />
-                        
-                    </a>
-                </li>
+<header>
+    <nav class="navbar">
+        <div class="logo"><img src="../pictures/logoblanc.png" /></div>
+        <a href="#" class="toggle-button">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </a>
+        <div class="navbar-links">
+            <ul>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="trombi.php">Trombinoscope</a></li>
+                <li><a href="contact.php">Contact</a></li>
             </ul>
-        </nav>
-    </header>
-
-
-</body>
+        </div>
+    </nav>
+</header>
 
 </html>
