@@ -15,23 +15,23 @@
             <ul class="navbarmenu">
                 <li class="navbaritemlogo">
                     <a>
-                        <img src="../Images/logoblanc.png" />  
+                        <img src="../pictures/logoblanc.png" />  
                     </a>
                 </li>
                 <li class="navbaritem">
                     <a href="index.php" class="navbarlink">
-                        <img src="../images/iconehome.png" class=" navbaricone" />
+                        <img src="../pictures/iconehome.png" class=" navbaricone" />
                         
                     </a>
                 </li>
                 <li class="navbaritem">
                     <a href="trombi.php" class="navbarlink">
-                        <img src="../images/iconephoto.png" class=" navbaricone" />
+                        <img src="../pictures/iconephoto.png" class=" navbaricone" />
                     </a>
                 </li>
                 <li class="navbaritem">
                     <a href="contact.php" class="navbarlink">
-                        <img src="../images/iconecontact.png" class="navbaricone" />
+                        <img src="../pictures/iconecontact.png" class="navbaricone" />
                         
                     </a>
                 </li>
