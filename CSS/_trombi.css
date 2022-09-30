@@ -19,7 +19,7 @@ display: grid;
 
 .trombiDiv > img {
     width: 100%;
-    clip-path: ellipse(50% 50%);
+    clip-path: ellipse(50% 60%);
 }
 
 h3{
@@ -45,15 +45,6 @@ h3{
 }
 }
 
-@media screen and (min-width: 1024px){
-    .trombiSection{
-        margin-top: 2rem;
-        display: grid;
-          grid-template-columns: 1fr 1fr 1fr 1fr;
-          gap: 3rem; 
-    }
-
-}
 
 @media screen and (min-width: 1024px){
     .trombiSection{
@@ -63,12 +54,3 @@ h3{
             gap: 3rem; 
         }
     }
-
-    @media screen and (min-width: 1024px){
-        .trombiSection{
-            margin-top: 2rem;
-            display: grid;
-                grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-                gap: 3rem; 
-            }
-}
