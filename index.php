@@ -13,7 +13,7 @@
 
 <?php include "_header.php" ?>
 
-<body>
+<body class="indexBody">
     <h1>
         Team PHPower
     </h1>

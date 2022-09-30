@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nous contacter</title>
     <link href="CSS/style.css" rel="stylesheet">
-    <link href="CSS/_contact.css" rel="stylesheet">
 </head>
 
 <?php include "_header.php" ?>
