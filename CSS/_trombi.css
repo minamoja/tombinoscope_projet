@@ -1,14 +1,14 @@
-.trombiUl{
+.trombiUl {
 
     margin-top: 2rem;
     margin-left: 3%;
     margin-right: 3%;
-display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
 }
 
-li{
+li {
     list-style: none;
     display: flex;
     flex-direction: column;
@@ -16,7 +16,7 @@ li{
     align-items: center;
 }
 
-.trombiDiv{
+.trombiDiv {
     background-color: white;
     border-radius: 180%;
     border: solid 2px;
@@ -25,16 +25,16 @@ li{
     margin-right: 10%;
     width: 200px;
     height: 200px;
-    
+
 }
 
 
-.trombiDiv > img {
+.trombiDiv>img {
     width: 100%;
     clip-path: ellipse(50% 50%);
 }
 
-.trombiDivh3Lorem{
+.trombiDivh3Lorem {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -42,7 +42,7 @@ li{
     margin-right: 3%;
 }
 
-h3{
+h3 {
     text-align: center;
     font-size: 1.5rem;
     margin-top: 1rem;
@@ -50,78 +50,81 @@ h3{
 
 }
 
-@media screen and (min-width: 768px){
-    .trombiUl{
+@media screen and (min-width: 768px) {
+    .trombiUl {
         margin-top: 2rem;
         margin-left: 3%;
         margin-right: 3%;
         display: grid;
 
-          grid-template-columns: 1fr 1fr;
-          gap: 3rem; 
+        grid-template-columns: 1fr 1fr;
+        gap: 3rem;
     }
-    .trombiDivh3Lorem{
+
+    .trombiDivh3Lorem {
         display: flex;
         flex-direction: column;
         align-items: flex-start;
         margin-left: 3%;
         margin-right: 3%;
-    }    
-    h3{
+    }
+
+    h3 {
         text-align: left;
         font-size: 1.5rem;
         margin-top: 1rem;
 
-}
+    }
 }
 
 
-@media screen and (min-width: 1024px){
-    .trombiUl{
+@media screen and (min-width: 1024px) {
+    .trombiUl {
         margin-top: 2rem;
         margin-left: 3%;
         margin-right: 3%;
         display: grid;
-            grid-template-columns: 1fr 1fr 1fr 1fr ;
-            gap: 3rem; 
-        }
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        gap: 3rem;
+    }
 
-        .trombiDivh3Lorem{
-            display: flex;
-            flex-direction: column;
-            align-items: flex-start;
-            margin-left: 3%;
-            margin-right: 3%;
-        }    
-        h3{
-            text-align: left;
-            font-size: 1.5rem;
-            margin-top: 1rem;
+    .trombiDivh3Lorem {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+    h3 {
+        text-align: left;
+        font-size: 1.5rem;
+        margin-top: 1rem;
 
     }
 }
 
-    @media screen and (min-width: 1440px){
-        .trombiUl{
-            margin-top: 2rem;
-            margin-left: 3%;
-            margin-right: 3%;
-            display: grid;
-                grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
-                gap: 3rem; 
-            }
-
-            .trombiDivh3Lorem{
-                display: flex;
-                flex-direction: column;
-                align-items: flex-start;
-                margin-left: 3%;
-                margin-right: 3%;
-            }    
-            h3{
-                text-align: left;
-                font-size: 1.5rem;
-                margin-top: 1rem;
-        }
+@media screen and (min-width: 1440px) {
+    .trombiUl {
+        margin-top: 2rem;
+        margin-left: 3%;
+        margin-right: 3%;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+        gap: 3rem;
     }
-    
+
+    .trombiDivh3Lorem {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+    h3 {
+        text-align: left;
+        font-size: 1.5rem;
+        margin-top: 1rem;
+    }
+}

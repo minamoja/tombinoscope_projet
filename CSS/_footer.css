@@ -1,4 +1,4 @@
-footer{
+footer {
     width: 100%;
     bottom: 0px;
     box-sizing: border-box;
@@ -23,7 +23,7 @@ footer{
 .footertext {
     padding-top: 2rem;
     padding-bottom: 2rem;
-    color:whitesmoke;
+    color: whitesmoke;
     text-shadow: var(--main-font-color) 0.1em 0.1em 0.2em;
     text-align: center;
 }

@@ -1,0 +1,19 @@
+.ranger {
+    margin: auto;
+    width: 90%;
+    text-align: center;
+    padding: 20px;
+
+
+}
+
+
+.portrait {
+    margin: auto;
+    background-color: white;
+    border-radius: 180%;
+    border: solid 2px;
+    border-color: var(--border-color);
+    width: 250px;
+    height: 250px;
+}
