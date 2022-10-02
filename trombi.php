@@ -19,18 +19,28 @@
     <section class="trombiSection">
 
 
-    <div class="trombiDiv"> <img src="/pictures/nicolas.png" alt="Photo"></div>
-    <h3>Ranger 1</h3>
-    <div class="trombiDiv"> <img src="/pictures/marine.png" alt="Photo"></div>
-    <h3>Ranger 2</h3>
-    <div class="trombiDiv"> <img src="/pictures/megane.png" alt="Photo"></div>
-    <h3>Ranger 3</h3>
-    <div class="trombiDiv"> <img src="/pictures/alain.png" alt="Photo"></div>
-    <h3>Ranger 4</h3>
-    <div class="trombiDiv"> <img src="/pictures/jf.png" alt="Photo"></div>
-    <h3>Ranger 5</h3>
-    <div class="trombiDiv"> <img src="/pictures/florian.png" alt="Photo"></div>
-    <h3>Ranger 6</h3>
+
+<ul class="trombiUl">
+
+<?php require '_script.php';
+
+ foreach($phpRangers as $rangerName => $idRanger): ?>
+
+    <li>
+        <div class="trombiDiv"> 
+            <img src="/pictures/casque-ranger.jpg" alt="Photo">
+        </div>
+    </li>
+    <div class="trombiDivh3Lorem">
+        <h3>Ranger <?=$rangerName?></h3> 
+        <p>Petit Lorem</p>
+    </div>
+    
+
+<?php endforeach; ?>
+
+</ul>
+
 
 
     </section>
