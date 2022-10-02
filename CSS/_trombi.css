@@ -31,7 +31,7 @@ li{
 
 .trombiDiv > img {
     width: 100%;
-    clip-path: ellipse(50% 45%);
+    clip-path: ellipse(50% 50%);
 }
 
 .trombiDivh3Lorem{
@@ -57,7 +57,7 @@ h3{
         margin-right: 3%;
         display: grid;
 
-          grid-template-columns: 1fr 1fr 1fr 1fr;
+          grid-template-columns: 1fr 1fr;
           gap: 3rem; 
     }
     .trombiDivh3Lorem{
@@ -82,7 +82,46 @@ h3{
         margin-left: 3%;
         margin-right: 3%;
         display: grid;
-            grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+            grid-template-columns: 1fr 1fr 1fr 1fr ;
             gap: 3rem; 
         }
+
+        .trombiDivh3Lorem{
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            margin-left: 3%;
+            margin-right: 3%;
+        }    
+        h3{
+            text-align: left;
+            font-size: 1.5rem;
+            margin-top: 1rem;
+
     }
+}
+
+    @media screen and (min-width: 1440px){
+        .trombiUl{
+            margin-top: 2rem;
+            margin-left: 3%;
+            margin-right: 3%;
+            display: grid;
+                grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+                gap: 3rem; 
+            }
+
+            .trombiDivh3Lorem{
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                margin-left: 3%;
+                margin-right: 3%;
+            }    
+            h3{
+                text-align: left;
+                font-size: 1.5rem;
+                margin-top: 1rem;
+        }
+    }
+    

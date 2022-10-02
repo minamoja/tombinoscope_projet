@@ -24,11 +24,13 @@
 
 <?php require '_script.php';
 
- foreach($phpRangers as $rangerName => $idRanger): ?>
+ foreach($phpRangers as $rangerName => $idRanger): 
+$imgsrc = "$rangerName" . '.png';
+ ?>
 
     <li>
         <div class="trombiDiv"> 
-            <img src="/pictures/casque-ranger.jpg" alt="Photo">
+            <img src = "/pictures/<?= $imgsrc ?>" alt="Photo">
         </div>
     </li>
     <div class="trombiDivh3Lorem">
