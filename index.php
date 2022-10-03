@@ -22,7 +22,7 @@
         <img src="/pictures/montageteam.png" alt="Notre super équipe au complet">
     </div>
     <section class="indexSection">
-        <h2> <a href="ranger.php">Welcome !</a></h2>
+        <h2> Welcome !</h2>
         <article>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure sapiente necessitatibus neque expedita esse, tempora dolorem aliquid nobis assumenda labore possimus vitae quos dolor numquam illum officiis est, quasi sequi.
