@@ -14,16 +14,16 @@
 
 <body>
 
-    <h1>Ranger X</h1>
+    <h1>Ranger <?=$_GET['name']?></h1>
     <div class="ranger">
 
         <div class="portrait">
-            <img class="img-ranger" src="https://fakeimg.pl/250x250/" alt="Nom du Ranger">
+        <img class="img-ranger" src = "/pictures/<?= $_GET['name'] . ".png" ?>" alt="Photo">
             
         </div>
         <h2>Quelques détails</h2>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, consequuntur? Aut nostrum ullam magnam ab doloremque corporis quae, cum provident ducimus eius dolorum asperiores? Similique consequatur et
+            <?= $_GET['descr'] ?>
         </p>
     </div>
 
