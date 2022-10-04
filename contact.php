@@ -29,7 +29,7 @@
     <label for="message">Message:</label><br />
     <textarea id="message" name="message"></textarea>
     <br /><br />
-    <input type="submit" value="Submit" id="submit" />
+    <input type="submit" value="Envoyer" id="submit" />
 
   </form>
 </body>
