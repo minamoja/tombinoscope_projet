@@ -13,7 +13,6 @@ header {
 .logo {
     width: 15%;
     margin: 1rem;
-    transition: 2s;
 }
 
 .navbar-links {
@@ -39,7 +38,8 @@ header {
 }
 
 .navbar-links li a:hover {
-    letter-spacing: 5px;
+    background-color: white;
+    color: var(--primary-background-color);
 }
 
 .toggle-button {
@@ -75,7 +75,8 @@ header {
     }
 
     .navbar-links li a:hover {
-        background-color: #fd5959;
+        background-color: white;
+        color: var(--primary-background-color);
     }
 
     .toggle-button {
