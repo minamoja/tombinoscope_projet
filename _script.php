@@ -20,21 +20,21 @@
 
 
  $phpRangers = [
-["id" => 1, 'name' => "Jihef"],
-["id" => 2, 'name' => "Megane"],
-["id" => 3, 'name' => "Marine"],
-["id" => 4, 'name' => "Alain"],
-["id" => 5, 'name' => "Nicolas"],
-["id" => 6, 'name' => "Florian"],
-["id" => 7, 'name' => "Alex"],
-["id" => 8, 'name' => "Axel"],
-["id" => 9, 'name' => "Emeric"],
-["id" => 10, 'name' => "Florent"],
-["id" => 11, 'name' => "Hugo"],
-["id" => 12, 'name' => "Jessica"],
-["id" => 13, 'name' => "Magali"],
-["id" => 14, 'name' => "Maria"],
-["id" => 15, 'name' => "Maxence"],
+["id" => 1, 'name' => "Jihef", 'petitLorem' => "Allez, j'envoie les signatures"],
+["id" => 2, 'name' => "Megane", 'petitLorem' => "Ca roule, je fais ça 🙂 Merci !"],
+["id" => 3, 'name' => "Marine", 'petitLorem' => "Je boirlete, vous boire le thez."],
+["id" => 4, 'name' => "Alain", 'petitLorem' => "J'ai une galère sur Nano là !"],
+["id" => 5, 'name' => "Nicolas", 'petitLorem' => "On peut éviter de mettre ma photo ? Je suis dans le noir complet..."],
+["id" => 6, 'name' => "Florian", 'petitLorem' => "J'aime pas SQL..."],
+["id" => 7, 'name' => "Alex", 'petitLorem' => "Allez, j'envoie les signatures"],
+["id" => 8, 'name' => "Axel", 'petitLorem' => "J'ai une caméra en contre-plongé, ça fait héroïque !"],
+["id" => 9, 'name' => "Emeric", 'petitLorem' => "Je vais disparaître dans la lumière"],
+["id" => 10, 'name' => "Florent", 'petitLorem' => "On parle pas de la météo par solidarité, svp..."],
+["id" => 11, 'name' => "Hugo", 'petitLorem' => "Allez, j'envoie les signatures"],
+["id" => 12, 'name' => "Jessica", 'petitLorem' => "Allez, j'envoie les signatures"],
+["id" => 13, 'name' => "Magali", 'petitLorem' => "Allez, j'envoie les signatures"],
+["id" => 14, 'name' => "Maria", 'petitLorem' => "Allez, j'envoie les signatures"],
+["id" => 15, 'name' => "Maxence", 'petitLorem' => "J'ai des huîtres dans la gorge. (5/10/2022)"],
  ]
 
 ?>

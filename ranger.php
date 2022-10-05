@@ -3,6 +3,10 @@
 $id = $_GET["id"];
 $file = "./data/content-$id.php"; 
 include $file;
+if (!file_exists($file)) {
+    header(include "_header.php");
+    die("404 Page not found");
+}
 ?>
 
 <!DOCTYPE html>
