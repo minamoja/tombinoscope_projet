@@ -13,8 +13,6 @@
 
 <body class= contactBody>
   <?php include "_header.php" ?>
-  <div class= page-container>
-    <div class= content-wrap>
   <h1>Nous contacter</h1>
   <p>Si vous voulez nous contacter, vous pouvez remplir le formulaire ci-dessous.</p>
   <form id="contactForm" action="/validation.php" method="POST">
@@ -35,9 +33,7 @@
     <input type="submit" value="Envoyer" id="submit" />
 
   </form>
-</div>
 <?php include "_footer.php" ?>
-</div>
 </body>
 
 <script src="script.js"></script>
