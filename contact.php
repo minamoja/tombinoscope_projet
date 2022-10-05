@@ -14,7 +14,7 @@
 <body>
   <h1>Nous contacter</h1>
   <p>Si vous voulez nous contacter, vous pouvez remplir le formulaire ci-dessous.</p>
-  <form id="contactForm">
+  <form id="contactForm" action="/validation.php" method="POST">
     <section class="contactGrid">
       <section class=contactName>
         <label for="name">Nom:</label><br />

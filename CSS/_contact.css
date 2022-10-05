@@ -40,6 +40,7 @@ textarea {
     width: 20rem;
     height: 5rem;
     padding: 0.35rem;
+    margin-top: 0.5rem;
 }
 
 @media screen and (min-width: 850px) {
@@ -79,4 +80,5 @@ textarea {
 
 input {
     padding: 0.35rem;
+    margin-top: 0.5rem;
 }

@@ -5,11 +5,11 @@ toggleButton.addEventListener('click', () => {
     navbarLinks.classList.toggle('active')
 })
 
-const message =
-    "Votre message a été envoyé ! Nous vous répondrons dès que possible.";
+// const message =
+//     "Votre message a été envoyé ! Nous vous répondrons dès que possible.";
 
-document.getElementById("contactForm");
-document.addEventListener("submit", function (event) {
-    event.preventDefault();
-    alert(message);
-});
+// document.getElementById("contactForm");
+// document.addEventListener("submit", function (event) {
+//     event.preventDefault();
+//     alert(message);
+// });
