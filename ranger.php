@@ -1,3 +1,10 @@
+<?php 
+
+$id = $_GET["id"];
+$file = "./data/content-$id.php"; 
+include $file;
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -9,22 +16,25 @@
     <link href="CSS/style.css" rel="stylesheet">
 
 
+
 </head>
 <?php include "_header.php" ?>
 
 <body>
 
-    <h1>Ranger <?=$_GET['name']?></h1>
+
+
+    <?= $rangerTitle ?>
     <div class="ranger">
 
         <div class="portrait">
-        <img class="img-ranger" src = "/pictures/<?= $_GET['name'] . ".png" ?>" alt="Photo">
-            
+        <?= $imgRanger ?>       
         </div>
+
         <h2>Quelques détails</h2>
-        <p>
-            <?= $_GET['descr'] ?>
-        </p>
+
+            <?= $descrRanger ?>
+
     </div>
 
 </body>

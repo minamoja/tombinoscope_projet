@@ -22,18 +22,19 @@
 
 <ul class="trombiUl">
 
-<?php require '_script.php';
- foreach($phpRangers as $rangerName => $descrRanger): 
- $imgsrc = "$rangerName" . '.png';
+<?php include '_script.php';
+ 
+ foreach($phpRangers as $phpRanger): 
+ $imgsrc = $phpRanger['name'] . ".png" ;
  ?>
-
     <li>
     <div class="trombiDiv"> 
-    <a href="ranger.php?name=<?=$rangerName?>&amp;descr=<?=$descrRanger?>"><img src = "/pictures/<?= $imgsrc ?>" alt="Photo"></a>       
+    <a href="ranger.php?id=<?=$phpRanger["id"]?>"> </a> 
+    <img class="trombiImg" src = "/pictures/<?= $imgsrc ?>" alt="Photo">      
         </div>
     </li>
     <div class="trombiDivh3Lorem">
-        <h3><a href="ranger.php?name=<?=$rangerName?>&amp;descr=<?=$descrRanger?>">Ranger <?=$rangerName?></a></h3> 
+        <h3><a href="ranger.php?id=<?=$phpRanger["id"]?>">Ranger <?=$phpRanger['name']?></a></h3> 
         <p>Petit Lorem</p>
     </div>
     
