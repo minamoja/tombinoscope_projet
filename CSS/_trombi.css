@@ -29,7 +29,7 @@ li {
 }
 
 
-a>img {
+.trombiImg {
     width: 100%;
     clip-path: ellipse(50% 50%);
 }
