@@ -15,17 +15,14 @@ header {
 
 .logo {
     /* width: 15%;
-    margin: 1rem;
-<<<<<<< HEAD
-    transition: 2s; */
+    margin: 1rem;*/
     width: fit-content;
 }
 
 .logo img {
     width: 250px;
     height: auto;
-=======
->>>>>>> marine
+
 }
 
 .navbar-links {
@@ -52,10 +49,6 @@ header {
 }
 
 .navbar-links li a:hover {
-<<<<<<< HEAD
-    /* letter-spacing: 5px; */
-=======
->>>>>>> marine
     background-color: white;
     color: var(--primary-background-color);
 }
@@ -95,10 +88,6 @@ header {
     }
 
     .navbar-links li a:hover {
-<<<<<<< HEAD
-        /* background-color: #fd5959; */
-=======
->>>>>>> marine
         background-color: white;
         color: var(--primary-background-color);
     }
