@@ -16,13 +16,18 @@ header {
 .logo {
     /* width: 15%;
     margin: 1rem;*/
+    margin: 1rem;
+    transition: 2s; */
     width: fit-content;
 }
 
 .logo img {
     width: 250px;
     height: auto;
+<<<<<<< HEAD
 
+=======
+>>>>>>> df155dd307b1b71f7bd5b41c6840af21c689643e
 }
 
 .navbar-links {
