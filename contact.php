@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class= contactHtml>
 
 <head>
   <meta charset="UTF-8">
@@ -10,9 +10,11 @@
   <script src="script.js"></script>
 </head>
 
-<?php include "_header.php" ?>
 
-<body>
+<body class= contactBody>
+  <div class= page-container>
+    <?php include "_header.php" ?>
+    <div class= content-wrap>
   <h1>Nous contacter</h1>
   <p>Si vous voulez nous contacter, vous pouvez remplir le formulaire ci-dessous.</p>
   <form id="contactForm" action="/validation.php" method="POST">
@@ -33,9 +35,12 @@
     <input type="submit" value="Envoyer" id="submit" />
 
   </form>
+</div>
+<?php include "_footer.php" ?>
+</div>
 </body>
 
-<?php include "_footer.php" ?>
+<script src="script.js"></script>
 
 
 </html>
