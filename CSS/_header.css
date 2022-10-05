@@ -16,7 +16,6 @@ header {
 .logo {
     /* width: 15%;
     margin: 1rem;
-<<<<<<< HEAD
     transition: 2s; */
     width: fit-content;
 }
@@ -24,8 +23,6 @@ header {
 .logo img {
     width: 250px;
     height: auto;
-=======
->>>>>>> marine
 }
 
 .navbar-links {
