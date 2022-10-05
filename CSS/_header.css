@@ -2,18 +2,27 @@ header {
     width: 100%;
     background-color: var(--primary-background-color);
 }
+
 .navbar {
     display: flex;
     position: relative;
     justify-content: space-between;
     align-items: center;
+    background-color: var(--primary-background-color);
     color: white;
+    padding: 30px;
 }
 
 .logo {
-    width: 15%;
+    /* width: 15%;
     margin: 1rem;
-    transition: 2s;
+    transition: 2s; */
+    width: fit-content;
+}
+
+.logo img {
+    width: 250px;
+    height: auto;
 }
 
 .navbar-links {
@@ -33,18 +42,23 @@ header {
 .navbar-links li a {
     display: block;
     text-decoration: none;
+    font-size: 1.5rem;
     color: white;
     background-color: var(--primary-background-color);
-    padding: 1rem;
+    padding: .5rem 1rem;
 }
 
 .navbar-links li a:hover {
-    letter-spacing: 5px;
+    /* letter-spacing: 5px; */
+    background-color: white;
+    color: var(--primary-background-color);
 }
 
 .toggle-button {
     position: absolute;
+    top: center;
     right: 1rem;
+    top: 3rem;
     display: none;
     flex-direction: column;
     justify-content: space-between;
@@ -75,7 +89,9 @@ header {
     }
 
     .navbar-links li a:hover {
-        background-color: #fd5959;
+        /* background-color: #fd5959; */
+        background-color: white;
+        color: var(--primary-background-color);
     }
 
     .toggle-button {
