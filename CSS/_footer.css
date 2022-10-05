@@ -1,9 +1,11 @@
 footer {
     width: 100%;
-    bottom: 0px;
+    bottom: 0;
     box-sizing: border-box;
     background-color: var(--primary-background-color);
-}
+    height: 100px;
+    }
+
 
 .divfooter {
 
@@ -16,7 +18,7 @@ footer {
 }
 
 .logofooter {
-    width: 10%;
+    width: 100px;
     margin: 0;
 }
 
