@@ -16,6 +16,5 @@
 </body>
 
 <?php include "_footer.php" ?>
-<script src="script.js"></script>
 
 </html>
