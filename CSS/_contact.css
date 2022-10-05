@@ -72,6 +72,10 @@ textarea {
 
 #submit {
     padding: 1rem;
+    border-radius: 10%;
+    background-color: var(--primary-background-color);
+    box-shadow: none;
+    border-color: var(--primary-background-color);
 }
 
 #contactForm {
@@ -81,4 +85,6 @@ textarea {
 input {
     padding: 0.35rem;
     margin-top: 0.5rem;
+    box-shadow: 5px 5px 20px gray;
+    border-color: rgb(194, 193, 193);
 }
