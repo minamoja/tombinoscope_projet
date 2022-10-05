@@ -29,13 +29,13 @@
  ?>
     <li>
     <div class="trombiDiv"> 
-    <a href="ranger.php?id=<?=$phpRanger["id"]?>"> </a> 
-    <img class="trombiImg" src = "/pictures/<?= $imgsrc ?>" alt="Photo">      
+   
+      <a href="ranger.php?id=<?=$phpRanger["id"]?>"><img class="trombiImg" src = "/pictures/<?= $imgsrc ?>" alt="Photo"> </a>     
         </div>
     </li>
     <div class="trombiDivh3Lorem">
         <h3><a href="ranger.php?id=<?=$phpRanger["id"]?>">Ranger <?=$phpRanger['name']?></a></h3> 
-        <p>Petit Lorem</p>
+        <p><?=$phpRanger['petitLorem'] ?></p>
     </div>
     
 
