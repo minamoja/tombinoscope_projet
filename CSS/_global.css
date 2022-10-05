@@ -1,0 +1,32 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--main-text-font);
+    margin: 0;
+    background-color: var(--secondary-background-color);
+    color: var(--main-font-color);
+    height: 100%;
+}
+
+h1 {
+    font-family: var('Varela Round', sans-serif);
+    margin-top: 1rem;
+    text-align: center;
+    margin-bottom: 5rem;
+    text-shadow: var(--main-font-color) 0.05em 0.05em;
+}
+
+h2 {
+    font-family: var('Varela Round', sans-serif);
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}

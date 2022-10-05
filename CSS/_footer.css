@@ -4,6 +4,7 @@ footer {
     box-sizing: border-box;
     background-color: var(--primary-background-color);
     height: 100px;
+    margin-top: auto;
     }
 
 
