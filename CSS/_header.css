@@ -15,8 +15,9 @@ header {
 
 .logo {
     /* width: 15%;
+    margin: 1rem;*/
     margin: 1rem;
-    transition: 2s; */
+    transition: 2s;
     width: fit-content;
 }
 
@@ -49,7 +50,6 @@ header {
 }
 
 .navbar-links li a:hover {
-    /* letter-spacing: 5px; */
     background-color: white;
     color: var(--primary-background-color);
 }
@@ -89,7 +89,6 @@ header {
     }
 
     .navbar-links li a:hover {
-        /* background-color: #fd5959; */
         background-color: white;
         color: var(--primary-background-color);
     }
