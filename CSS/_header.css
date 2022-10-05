@@ -52,10 +52,6 @@ header {
 }
 
 .navbar-links li a:hover {
-<<<<<<< HEAD
-    /* letter-spacing: 5px; */
-=======
->>>>>>> marine
     background-color: white;
     color: var(--primary-background-color);
 }
@@ -95,10 +91,6 @@ header {
     }
 
     .navbar-links li a:hover {
-<<<<<<< HEAD
-        /* background-color: #fd5959; */
-=======
->>>>>>> marine
         background-color: white;
         color: var(--primary-background-color);
     }
