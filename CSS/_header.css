@@ -15,8 +15,9 @@ header {
 
 .logo {
     /* width: 15%;
+    margin: 1rem;*/
     margin: 1rem;
-    transition: 2s; */
+    transition: 2s;
     width: fit-content;
 }
 
