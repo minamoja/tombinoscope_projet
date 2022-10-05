@@ -10,8 +10,8 @@
 </head>
 
 
+<?php include "_header.php" ?>
 <body class= contactBody>
-  <?php include "_header.php" ?>
   <h1>Nous contacter</h1>
   <p>Si vous voulez nous contacter, vous pouvez remplir le formulaire ci-dessous.</p>
   <form id="contactForm" action="/validation.php" method="POST">
@@ -32,8 +32,8 @@
     <input type="submit" value="Envoyer" id="submit" />
 
   </form>
-<?php include "_footer.php" ?>
 </body>
+<?php include "_footer.php" ?>
 
         <script src="script.js"></script>
       
