@@ -33,11 +33,14 @@
         <textarea id="message" name="message" placeholder="Votre message" arial-label="message" required></textarea>
         <br /><br />
         <input type="submit" value="Envoyer" id="submit" />
-
       </form>
 
-</body>
+              </form>
+            </div>
+            <?php include "_footer.php" ?>
+          </div>
+        </body>
 
-<?php include "_footer.php" ?>
-
+        <script src="script.js"></script>
+      
 </html>
