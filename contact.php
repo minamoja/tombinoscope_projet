@@ -18,16 +18,16 @@
     <section class="contactGrid">
       <section class=contactName>
         <label for="name">Nom:</label><br />
-        <input type="text" id="name" name="name" value="Wilder Ranger" /><br />
+        <input type="text" id="name" name="name" placeholder="Wilder Ranger" arial-label="nom" required /><br />
       </section>
       <section class=contactEmail>
         <label for="email">Email:</label><br />
-        <input type="email" id="email" name="email" value="ranger@wild.com" /><br />
+        <input type="email" id="email" name="email" placeholder="ranger@wild.com" arial-label="email" required /><br />
       </section>
       <div class="contactImage"></div>
     </section>
     <label for="message">Message:</label><br />
-    <textarea id="message" name="message"></textarea>
+    <textarea id="message" name="message" placeholder="Votre message" arial-label="message" required></textarea>
     <br /><br />
     <input type="submit" value="Envoyer" id="submit" />
 
