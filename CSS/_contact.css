@@ -41,6 +41,9 @@ textarea {
     height: 5rem;
     padding: 0.35rem;
     margin-top: 0.5rem;
+    background: white;
+    box-shadow: 5px 5px 20px gray;
+    border-color: rgb(194, 193, 193);
 }
 
 @media screen and (min-width: 850px) {
@@ -98,7 +101,7 @@ input {
     position: relative;
     /* min-height: 100vh; */
     height: 100vh;
-  }
+}
 
 .content-wrap {
     padding-bottom: 100px;
