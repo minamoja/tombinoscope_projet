@@ -34,8 +34,8 @@
         </div>
     </li>
     <div class="trombiDivh3Lorem">
-        <h3><a href="ranger.php?id=<?=$phpRanger["id"]?>">Ranger <?=$phpRanger['name']?></a></h3> 
-        <p><?=$phpRanger['petitLorem'] ?></p>
+        <h3><a class="rangerx" href="ranger.php?id=<?=$phpRanger["id"]?>"> Ranger <?=$phpRanger['name']?> </a></h3> 
+        <p class="textranger"><?=$phpRanger['petitLorem'] ?></p>
     </div>
     
 

@@ -50,6 +50,29 @@ div>h3 {
 
 }
 
+.rangerx {
+    text-decoration: none;
+    border-radius: 5px;
+    color: white;
+    text-shadow: var(--main-font-color) 0.05em 0.05em;
+    box-shadow: 5px 5px 5px var(--main-font-color);
+    background-color: var(--primary-background-color);
+    text-align: center;
+}
+.rangerx:hover {
+    text-decoration: none;
+    border-radius: 5px;
+    color: var(--primary-background-color);
+    text-shadow: var(--main-font-color) 0.05em 0.05em;
+    box-shadow: 5px 5px 5px var(--main-font-color);
+    background-color: var(--secondary-background-color);
+    text-align: center;
+}
+
+.textranger {
+    text-align: center;
+}
+
 @media screen and (min-width: 768px) {
     .trombiUl {
         margin-top: 2rem;
@@ -91,7 +114,8 @@ div>h3 {
     .trombiDivh3Lorem {
         display: flex;
         flex-direction: column;
-        align-items: flex-start;
+        align-items: center;
+        justify-content: center;
         margin-left: 3%;
         margin-right: 3%;
     }
@@ -110,7 +134,7 @@ div>h3 {
         margin-left: 3%;
         margin-right: 3%;
         display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
         gap: 3rem;
     }
 
