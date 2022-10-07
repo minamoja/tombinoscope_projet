@@ -13,7 +13,7 @@
 ["id" => 10, 'name' => "Florent", 'petitLorem' => "On parle pas de la météo par solidarité, svp..."],
 ["id" => 11, 'name' => "Hugo", 'petitLorem' => "J'aime pas les foreach"],
 ["id" => 12, 'name' => "Jessica", 'petitLorem' => "Petite description."],
-["id" => 13, 'name' => "Magali", 'petitLorem' => "Petite description."],
+["id" => 13, 'name' => "Magali", 'petitLorem' => "Lentement mais sûrement"],
 ["id" => 14, 'name' => "Maria", 'petitLorem' => "In tartiflette I believe !"],
 ["id" => 15, 'name' => "Maxence", 'petitLorem' => "J'ai des huîtres dans la gorge. (5/10/2022)"],
  ]
