@@ -10,10 +10,12 @@
 </head>
 
 
-<body class=contactBody>
+<body class="contactBody">
   <?php include "_header.php" ?>
-  <h1>Nous contacter</h1>
-  <p>Si vous voulez nous contacter, vous pouvez remplir le formulaire ci-dessous.</p>
+  <div class>
+    <h1>Nous contacter</h1>
+    <p>Si vous voulez nous contacter, vous pouvez remplir le formulaire ci-dessous.</p>
+  </div>
   <form id="contactForm" action="/validation.php" method="POST">
     <section class="contactGrid">
       <section class=contactName>
