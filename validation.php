@@ -11,7 +11,7 @@
 
 <?php include "_header.php" ?>
 
-<body>
+<body class="validationBody">
     <h3>Merci <?= $_POST['name'] ?> de nous avoir contacté et à bientôt ! ;)</h3>
 </body>
 
