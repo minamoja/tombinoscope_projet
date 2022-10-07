@@ -13,6 +13,7 @@ h1 {
 
 .indexh2{
     text-align: center;
+    margin-bottom: 2rem;
 }
 
 img{
@@ -22,8 +23,18 @@ img{
 }
 
 
-p{
-    margin-left: 10%;
+.indexPara{
+    margin-left: 15%;
     margin-right: 10%;
-    margin-bottom: 20%;
+    margin-bottom: 5%;
+    font-size: 1.2rem;
+}
+
+.indexLink:link{
+    color: var(--h1-text-color);
+    text-decoration: none;
+}
+
+.indexLink:visited{
+    color: var(--h1-text-color);
 }

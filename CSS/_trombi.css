@@ -46,7 +46,7 @@ div>h3 {
     text-align: center;
     font-size: 1.5rem;
     margin-top: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1.5rem;
 
 }
 
@@ -70,7 +70,7 @@ div>h3 {
 }
 
 .textranger {
-    text-align: center;
+    text-align: start;
 }
 
 @media screen and (min-width: 768px) {
