@@ -22,15 +22,34 @@
         <img src="/pictures/montageteam.png" alt="Notre super équipe au complet">
     </div>
     <section class="indexSection">
-        <h2> Welcome !</h2>
+        <h2 class="indexh2"> Bienvenue !!</h2>
         <article>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure sapiente necessitatibus neque expedita esse, tempora dolorem aliquid nobis assumenda labore possimus vitae quos dolor numquam illum officiis est, quasi sequi.
+               ♪ En passant par un Lorem en f'sant des modulo ♫ ! <br> <br>
+               Ooopssies! Désolé, nous ne vous avions pas vu. Bienvenue à vous cher visiteur. Vous voici sur la page de notre petit groupe de joyeux étudiant en PHP. <br> <br>
+               Ce site a été crée avec des techniques simples pour un petit projet de trombinoscope. Nous vous souhaitons une bonne visite. Pour nous découvrir, venez voir nos <a href="/trombi.php">trombines</a> 
             </p>
-        </article>
-        <h2> About us</h2>
+        </article >
+        <h2 class="indexh2"> Qui sommes-nous ?</h2>
         <article>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, vel similique unde, ullam vero exercitationem eum reprehenderit ea blanditiis quae adipisci. Placeat autem, sequi fugit eligendi explicabo dicta vel reiciendis?</p>
+            <p>
+                Dens gens ! Merci de nous avoir lu ! 😎  
+            <br>
+            <br>
+            <br>
+            ........................ 
+            <br>
+            <br>
+            <br>
+            Vous êtes encore là ? Bon... Vous voulez en savoir plus ? Petits curieux... 🧐. 
+            <br>
+            <br>
+            <br>
+            Nous sommes donc des étudiant en developement web à <a href="https://www.wildcodeschool.com/fr-FR">la wild code school.</a><br><br>
+            Nous sommes tous venus d'univers divers pour des motivations différentes, mais ce qui nous unis c'est notre volonté de trouver dans cette formation une opportunité de changer nos vies.
+            Nous espérons que notre site, développé après seulement un mois de cours saura vous montrer la qualité de nos formateurs et notre motivation. <br><br>
+            Merci à vous d'être resté jusqu'ici. Bonne visite, et n'oubliez pas nous envoyer un <a href="/contact.php">petit message !</a>
+        </p> 
         </article>
 
     </section>
