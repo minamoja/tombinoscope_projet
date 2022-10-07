@@ -1,7 +1,7 @@
 .indexBody{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -25,5 +25,5 @@ img{
 p{
     margin-left: 10%;
     margin-right: 10%;
-    margin-bottom: 10%;
+    margin-bottom: 20%;
 }
