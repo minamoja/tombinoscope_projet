@@ -4,3 +4,21 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.validationBody h3 {
+    text-align: center;
+    margin: 1rem;
+}
+
+.img-thanks {
+    height: 15rem;
+    width: 15rem;
+}
+
+@media screen and (min-width: 850px) {
+    .img-thanks {
+        display: flex;
+        height: 19rem;
+        width: 19rem;
+    }
+}

@@ -12,7 +12,7 @@
 
 <body class="contactBody">
   <?php include "_header.php" ?>
-  <div class>
+  <div>
     <h1>Nous contacter</h1>
     <p>Si vous voulez nous contacter, vous pouvez remplir le formulaire ci-dessous.</p>
   </div>
