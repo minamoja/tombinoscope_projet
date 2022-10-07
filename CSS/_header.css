@@ -10,7 +10,7 @@ header {
     align-items: center;
     background-color: var(--primary-background-color);
     color: white;
-    padding: 30px;
+    padding: 0.2rem;
 }
 
 .logo {

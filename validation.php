@@ -13,7 +13,13 @@
 
 <body class="validationBody">
     <h3>Merci <?= $_POST['name'] ?> de nous avoir contacté et à bientôt ! ;)</h3>
+
+    <div class="img-thanks">
+        <img src="/pictures/thanks-enveloppe.png">
+    </div>
 </body>
+
+
 
 <?php include "_footer.php" ?>
 
