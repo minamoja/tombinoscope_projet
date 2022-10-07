@@ -26,14 +26,14 @@
         <article>
             <p class="indexPara">
                ♪ En passant par un Lorem en f'sant des modulo ♫ ! <br> <br>
-               Ooopssies! Désolé, nous ne vous avions pas vu. Bienvenue à vous cher visiteur. Vous voici sur la page de notre petit groupe de joyeux étudiant en PHP. <br> <br>
-               Ce site a été crée avec des techniques simples pour un petit projet de trombinoscope. Nous vous souhaitons une bonne visite. Pour nous découvrir, venez voir nos <a class="indexLink" href="/trombi.php">trombines !</a> 
+               Ooopssies! Désolé, nous ne vous avions pas vu. Bienvenue à vous cher visiteur. Vous voici sur la page de notre petit groupe de joyeux étudiants en PHP. <br> <br>
+               Ce site a été créé avec des techniques simples pour un petit projet de trombinoscope. Nous vous souhaitons une bonne visite. Pour nous découvrir, venez voir nos <a class="indexLink" href="/trombi.php">trombines !</a> 
             </p>
         </article >
         <h2 class="indexh2"> Qui sommes-nous ?</h2>
         <article>
             <p class="indexPara">
-                Dens gens ! Merci de nous avoir lu ! 😎  
+                Des gens ! Merci de nous avoir lu ! 😎  
             <br>
             <br>
             <br>
@@ -41,12 +41,12 @@
             <br>
             <br>
             <br>
-            Vous êtes encore là ? Bon... Vous voulez en savoir plus ? Petits curieux... 🧐. 
+            Vous êtes encore là ? Bon... Vous voulez en savoir plus ? Petit curieux... 🧐. 
             <br>
             <br>
             <br>
-            Nous sommes donc des étudiant en developement web à <a class="indexLink" href="https://www.wildcodeschool.com/fr-FR">la wild code school.</a><br><br>
-            Nous sommes tous venus d'univers divers pour des motivations différentes, mais ce qui nous unis c'est notre volonté de trouver dans cette formation une opportunité de changer nos vies.
+            Nous sommes donc des étudiants en developement web à <a class="indexLink" href="https://www.wildcodeschool.com/fr-FR">la wild code school.</a><br><br>
+            Nous sommes tous venus d'univers divers pour des motivations différentes, mais ce qui nous unit c'est notre volonté de trouver dans cette formation une opportunité de changer nos vies.<br><br>
             Nous espérons que notre site, développé après seulement un mois de cours saura vous montrer la qualité de nos formateurs et notre motivation. <br><br>
             Merci à vous d'être resté jusqu'ici. Bonne visite, et n'oubliez pas nous envoyer un <a class="indexLink" href="/contact.php">petit message !</a>
         </p> 
