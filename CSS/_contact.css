@@ -3,8 +3,16 @@ html {
 }
 
 .contactBody {
-    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    /* font-family: 'Raleway', sans-serif; */
 }
+
+/* .contactBody>div>h1 {
+    font-family: 'Varela Round', sans-serif;
+} */
 
 .contactImage {
     grid-area: I;
@@ -19,15 +27,16 @@ html {
 
 @media screen and (min-width: 850px) {
     .contactImage {
-        height: 17rem;
-        width: 17rem;
+        height: 15rem;
+        width: 15rem;
     }
 }
 
 
-body>p {
-    margin-bottom: 1rem;
-    margin-top: 1rem;
+.contactBody>div>p {
+    margin-right: 1rem;
+    margin-left: 1rem;
+    text-align: center;
 }
 
 form {
@@ -79,10 +88,6 @@ textarea {
     background-color: var(--primary-background-color);
     box-shadow: none;
     border-color: var(--primary-background-color);
-}
-
-#contactForm {
-    margin-left: calc(100%/10);
 }
 
 input {
